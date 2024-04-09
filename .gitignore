@@ -1,0 +1,15 @@
+venv/
+*.class
+*.jar
+*.war
+*.ear
+*.apk
+*.dex
+bin/
+target/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+indo-sentence-bert-base/
